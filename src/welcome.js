@@ -2,7 +2,7 @@
 import { inject, bindable } from 'aurelia-framework';
 
 export class Welcome {
-  heading = 'Selamat datang di aplikasi Dan Liris';
+  heading = 'Dan Liris';
   firstName = 'John';
   lastName = 'Doe';
   previousValue = this.fullName;
